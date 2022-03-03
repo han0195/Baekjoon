@@ -9,13 +9,17 @@ public class b_10809 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
 		String s = br.readLine();
-		int[] arr = new int[26];
+
+		int[] arr = new int[26]; //알파벳 배열
+		int re = 0;
+		//알바벳 배열에다 -1 집어넣기
 		for(int i = 0; i < arr.length; i++) {
 			arr[i] = -1;
 		}
 		
+		//s 변수에 저장되었있는 문자열에 위치를 arr 배열에다 집어넣기
 		for(int i = 0; i < s.length(); i++) {
-			arr[s.charAt(i) - 97] = ;
+			
 		}
 		//System.out.println(s.charAt(0));
 		//System.out.println('b' - 96);

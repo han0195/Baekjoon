@@ -1,3 +1,4 @@
+package ∫Í∑–¡Ó;
 import java.util.*;
 class Main{
     public static void text(String[] args){

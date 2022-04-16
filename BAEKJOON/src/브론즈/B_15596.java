@@ -1,3 +1,4 @@
+package ∫Í∑–¡Ó;
 public class B_15596 {
     long sum(int[] a) {
         long ans = 0;
